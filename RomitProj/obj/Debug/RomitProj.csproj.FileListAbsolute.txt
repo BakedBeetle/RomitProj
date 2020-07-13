@@ -1,0 +1,10 @@
+C:\Users\vasu\Source\Repos\RomitProj\RomitProj\bin\Debug\RomitProj.exe.config
+C:\Users\vasu\Source\Repos\RomitProj\RomitProj\bin\Debug\RomitProj.exe
+C:\Users\vasu\Source\Repos\RomitProj\RomitProj\bin\Debug\RomitProj.pdb
+C:\Users\vasu\Source\Repos\RomitProj\RomitProj\obj\Debug\RomitProj.Form1.resources
+C:\Users\vasu\Source\Repos\RomitProj\RomitProj\obj\Debug\RomitProj.Properties.Resources.resources
+C:\Users\vasu\Source\Repos\RomitProj\RomitProj\obj\Debug\RomitProj.csproj.GenerateResource.cache
+C:\Users\vasu\Source\Repos\RomitProj\RomitProj\obj\Debug\RomitProj.csproj.CoreCompileInputs.cache
+C:\Users\vasu\Source\Repos\RomitProj\RomitProj\obj\Debug\RomitProj.exe
+C:\Users\vasu\Source\Repos\RomitProj\RomitProj\obj\Debug\RomitProj.pdb
+C:\Users\vasu\Source\Repos\RomitProj\RomitProj\obj\Debug\RomitProj.csprojAssemblyReference.cache
